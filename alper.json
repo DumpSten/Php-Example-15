@@ -1,0 +1,14 @@
+{
+    "ad": "alper",
+    "soyad": "catal",
+    "siteler": [
+        {
+            "url": "https://alperctl.net",
+            "baslik": "alperctl.net - Kişisel Blog"
+        },
+        {
+            "url": "https://php.com",
+            "baslik": "$php"
+        }
+    ]
+}
